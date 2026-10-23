@@ -1,50 +1,28 @@
-Java Practice ☕💻
+# ☕ Java Sandbox
 
-Welcome to my Java Practice repository!
+Welcome to my personal Java practice repository! This is where I experiment with Java, practise programming concepts, and build small projects as I continue my journey in software engineering.
 
-This repository documents my journey of learning Java programming, improving my problem-solving skills, and practising Object-Oriented Programming (OOP).
+## 📚 What I'm Learning
 
-🎯 Goals
+- Java fundamentals and syntax
+- Object-Oriented Programming (OOP)
+- Classes, objects, constructors, and methods
+- Variables, data types, and operators
+- Problem-solving and programming logic
 
-Strengthen my Java programming fundamentals.
+## 💻 Tools & Technologies
 
-Understand Object-Oriented Programming concepts.
+- **Language:** Java
+- **Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
 
-Practise writing clean, structured, and reusable code.
+## 🎯 Goals
 
-Build small projects and improve through hands-on practice.
+- Strengthen my Java programming fundamentals.
+- Improve my understanding of Object-Oriented Programming.
+- Practise writing clean and readable code.
+- Build more projects as I develop my software engineering skills.
 
-📚 Topics Covered
+---
 
-Java Fundamentals
-
-Classes and Objects
-
-Constructors
-
-Encapsulation
-
-Methods and Parameters
-
-Conditional Statements
-
-Loops
-
-User Input with Scanner
-
-Object Interaction
-
-🛠️ Tools
-
-Java
-
-Visual Studio Code
-
-Git & GitHub
-
-
-🌱 Learning Progress
-
-I'm continuously adding new exercises and projects as I develop my Java and OOP skills daily.
-
-This repository represents my progress/exercises as a Computer Science (Software Engineering) student.
+*This repository documents my learning journey, one line of code at a time.* 🚀
